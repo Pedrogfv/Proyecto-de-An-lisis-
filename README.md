@@ -12,7 +12,7 @@ Se nos solicita la elaboración de un proyecto de anális de datos, con el fin d
 - Wordcloud
 - sklearn
 - PowerBi
-- 
+
 # EDA
 Procedimos a realizar un análisis exploratorio exahustivo, para encontrar patrones que nos permitieran generar información que le permititía a las autoridades locales tomar medidas para disminuir la cantidad de homicidios de los siniestros viales. 
 # Análisis de datos y Dashboard.
